@@ -1,4 +1,4 @@
-# Lecture 9 Lecture Concepts
+# Lecture 9 - Concepts
 
 ## Implementing the Queueing Entities
 
